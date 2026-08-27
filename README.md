@@ -14,6 +14,10 @@ El proyecto será desarrollado colaborativamente utilizando Git y GitHub.
 - Developer A
 - Developer B
 
+## Contact
+
+Email: studenthub@unimagdalena.edu.co
+
 ## License
 
 Academic project for Git and GitHub practice.
