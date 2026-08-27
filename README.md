@@ -13,3 +13,7 @@ El proyecto será desarrollado colaborativamente utilizando Git y GitHub.
 
 - Developer A
 - Developer B
+
+## License
+
+Academic project for Git and GitHub practice.
